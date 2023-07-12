@@ -1,0 +1,4 @@
+1. Según el código, las dimensiones minimas del tablero es de 3x3 y las dimensiones maximas que puede alcanzar es de 9x9.
+2. El juego esta representado con datos de tipo int, es decir los números en pantalla son enteros.
+3. Utilizamos la función void greet(void), la cual al inicio del juego nos envia un mensaje.
+4. Las funciones que debemos completar son la de iniciar creando el tablero segun las especificaciones, la de imprimir el tablero, como mover las piezas y la funcion que indique victoria.

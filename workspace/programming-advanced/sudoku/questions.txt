@@ -1,0 +1,14 @@
+1- Cuando le da dos argumentos de tipo string a la funcion strcmp devuelve 0 si estos dos argumentos son iguales.
+2- if (strcmp(g.leve, "debug") == 0)
+    {
+        int max = 9;
+    }
+   else
+    {
+        int max = 1024;
+    }
+3- En caso que escriba un numero y alguna letra o caracter, esta funcion devolvera 2
+4- Estan representadas por x, y en la struct g
+5- Llamamos a la funcion show_cursor para que el cursor aparezca en las coordenadas donde le corresponde
+6- Dentro del bucle do/while que comienza en la linea 147
+7- 
